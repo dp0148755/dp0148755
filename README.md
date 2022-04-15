@@ -1,4 +1,4 @@
-### Hi there I am Miss Emily 👋
+### Hi there I am TOXY TECH 👋
 
 <div align="center">
   <div>
@@ -143,11 +143,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything whch I dont know about
 - 🤔 I’m looking for help with nothing cuz I am lazy
 - 💬 Ask me about I am noob and lazy
-- 📫 How to reach me: @missemily2022 on Telegram
+- 📫 How to reach me: @dipesh1674 @toxytech on Telegram
 - ⚡ Fun fact: I like when people thnk they can bully me and in the end they get failed
 
 
-![snake gif](https://github.com/missemily2022/missemily2022/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/dipeshpatil123/dipeshpatil123/raw/output/github-contribution-grid-snake.svg)
 
 
 [![Miss Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=missemily2022&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/missemily2022/github-readme-stats)
@@ -155,7 +155,7 @@ Here are some ideas to get you started:
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/missemily2022"><img src="https://github-profile-trophy.vercel.app/?username=missemily2022" alt="missemily2022" /></a> </p>
+<p align="left"> <a href="https://github.com/dipeshpatil123"><img src="https://github-profile-trophy.vercel.app/?username=missemily2022" alt="missemily2022" /></a> </p>
 
 </details>
 <details>
@@ -215,16 +215,16 @@ Here are some ideas to get you started:
 ### Contribution Graph:
 
 <p align="center">
-  <a href="https://github.com/missemily2022">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=missemily2022&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <a href="https://github.com/dipeshpatil123">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mdipeshpatil123&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
-<a href="https://github.com/missemily2022"><img alt="Emily's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=missemily2022&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/missemily2022"><img alt="Dipesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=missemily2022&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <details>
   <summary>Activity Metrics</summary>
   <br/>
-<p align="left"> <a href="https://github.com/missemily2022"><img src="https://metrics.lecoq.io/missemily2022?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="missemily2022" /></a> </p>
+<p align="left"> <a href="https://github.com/dipeshpatil123"><img src="https://metrics.lecoq.io/dipeshpatil123?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta" alt="missemily2022" /></a> </p>
 
 </details>
 
@@ -232,7 +232,7 @@ Here are some ideas to get you started:
 
 <div>
   <a
-    href="https://github.com/missemily2022"
+    href="https://github.com/dipeshpatil123"
     target="_blank"
   >
     <img
